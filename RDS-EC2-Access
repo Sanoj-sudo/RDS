@@ -1,0 +1,5 @@
+mysql -h rubydb.csaphu30mub1.us-east-1.rds.amazonaws.com -P 3306 -u admin -p
+
+You should type as mentioned above format otherwise you will face issue while connecting to rds 
+
+error like 4200  something like 
